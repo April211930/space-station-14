@@ -121,7 +121,9 @@
     - type: StorageFill
       contents:
         - id: BookRandom
-          amount: 10
+          amount: 9
+        - id: Bible
+          amount: 1
 
 - type: entity
   id: CrateServiceGuidebooks
